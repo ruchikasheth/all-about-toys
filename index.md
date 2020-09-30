@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# It's ALL ABOUT TOYS !
+
+  ## Our beautiful wooden toys will happily engage your children while providing endless opportunities for open-ended play!
+  
+  ![Toys](/images.jpeg)
+
+  
 
 You can use the [editor on GitHub](https://github.com/ruchikasheth/all-about-toys/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
