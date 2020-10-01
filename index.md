@@ -10,7 +10,7 @@
  
 * [GET CREATIVE](https://lilwondertrails.com/collections/creative-play-trails)               
 * [LET'S PRETEND PLAY](https://lilwondertrails.com/collections/pretend-play-trails)           
-* [MUSICAL TOYS ARE FUN](https://lilwondertrails.com/collections/musical-trails
+* [MUSICAL TOYS ARE FUN](https://lilwondertrails.com/collections/musical-trails)
 
 ## OUR BESTSELLERS
 
