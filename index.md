@@ -1,11 +1,6 @@
-!(Logo)(/logo.png)
+![Logo](/images/logo.png)
 
-
-# It's ALL ABOUT TOYS ! 
-
-## Our beautiful wooden toys will happily engage your children while providing endless opportunities for open-ended play!
-  
-  ![Toys](/images.jpeg)
+![Toys](/images.jpeg)
 
 
                                        **EXPLORE OUR WORLD OF TOYS!**
