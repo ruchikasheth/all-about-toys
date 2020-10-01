@@ -1,20 +1,22 @@
-![Logo](/Logo.png)
+![](/images.jpeg)
 
 
 
 
-**EXPLORE OUR WORLD OF TOYS!**
+# EXPLORE OUR WORLD OF TOYS!
                                        
-                                        ![Toys](/images.jpeg)   
+                                       
   
- 
+  
+## OUR TOY CATEGORIES  
+
 * [GET CREATIVE](https://lilwondertrails.com/collections/creative-play-trails)               
 * [LET'S PRETEND PLAY](https://lilwondertrails.com/collections/pretend-play-trails)           
 * [MUSICAL TOYS ARE FUN](https://lilwondertrails.com/collections/musical-trails)
 
 ## OUR BESTSELLERS
 
-![Shape Sorter](/SS.jpg)        ![Fruit Threading Set](/Fruit.jpg)      ![My Toolbox](/Tool.jpg)
+![Shape Sorter](/SS.JPG)        ![Fruit Threading Set](/Fruit.jpg)      ![My Toolbox](/Tool.jpg)
 
 
 
