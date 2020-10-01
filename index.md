@@ -1,4 +1,4 @@
-![Logo](/logo.png)
+![Logo](/Logo.png)
 
 ![Toys](/images.jpeg)
 
@@ -6,7 +6,9 @@
                                        **EXPLORE OUR WORLD OF TOYS!**
   
  
-[GET CREATIVE](https://lilwondertrails.com/collections/creative-play-trails) [LET'S PRETEND PLAY](https://lilwondertrails.com/collections/pretend-play-trails) [MUSICAL TOYS](https://lilwondertrails.com/collections/musical-trails)
+* [GET CREATIVE](https://lilwondertrails.com/collections/creative-play-trails)               
+* [LET'S PRETEND PLAY](https://lilwondertrails.com/collections/pretend-play-trails)             
+* [MUSICAL TOYS ARE FUN](https://lilwondertrails.com/collections/musical-trails)
 
   
   ###
