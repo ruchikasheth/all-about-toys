@@ -16,7 +16,7 @@
 
 ## OUR BESTSELLERS
 
-*![Shape Sorter](/SS.JPG)        *![Fruit Threading Set](/Fruit.jpg)      *![My Toolbox](/Tool.jpg)
+![Shape Sorter](/SS.JPG)        ![Fruit Threading Set](/Fruit.jpg)      ![My Toolbox](/Tool.jpg)
 
 
 
